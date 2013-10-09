@@ -1,6 +1,6 @@
 {
   "name": "karma-dbus-reporter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Karma plugin. Report results with D-Bus.",
   "main": "index.js",
   "scripts": {
