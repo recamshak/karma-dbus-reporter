@@ -12,8 +12,12 @@
   },
   "keywords": [
     "karma-plugin",
-    "karma-reporter",
-    "dbus"
+    "reporter",
+    "dbus",
+    "linux",
+    "ubuntu",
+    "fedora",
+    "notification"
   ],
   "author": "Joel Billaud <jbillaud@gmail.com>",
   "dependencies": {
