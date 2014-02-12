@@ -19,6 +19,15 @@ You can simple do it by:
 npm install karma-dbus-reporter --save-dev
 ```
 
+Make sure you have `socat` installed on your system. On Ubuntu / Debian:
+```bash
+sudo apt-get install socat
+```
+On Fedora:
+```bash
+sudo yum install socat
+```
+
 ###
 
 ## Configuration
